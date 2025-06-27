@@ -35,6 +35,18 @@
 - **bcrypt**, **cors**, **dotenv**, **cookie-parser**
 
 ---
+📌 Roadmap / Future Features
+🧑‍🤝‍🧑 Group Chats
 
+🟢 Online/Offline Status
+
+🔔 Push Notifications
+
+🗂 File Sharing
+
+🕓 Message Timestamps and Editing
+
+📄 License
+This project is licensed under the MIT License.
 
 
